@@ -1,5 +1,5 @@
 # Supervised-Machine-Learning
-## Breast Cancer Wisconsin (Diagnostic) Data Set
+*Breast Cancer Wisconsin (Diagnostic) Data Set
 This project is a supervised classification machine learning project to predict whether the cancer is benign or malignant. The data set used in this project is the Breast Cancer Wisconsin (Diagnostic) Data Set.
 
 ## About the Dataset
