@@ -1,5 +1,6 @@
 # Supervised-Machine-Learning
-`Breast Cancer`(diagnostic) Data Set
+- `Breast Cancer`(diagnostic)
+
 This project is a supervised classification machine learning project to predict whether the cancer is benign or malignant. The data set used in this project is the Breast Cancer Wisconsin (Diagnostic) Data Set.
 
 ![alt text](https://github.com/yasmina-99/Supervised-Machine-Learning/blob/main/Standardization-of-H-E-stained-histopathology-image-appearance-A-Two-raw-images-with.png)
