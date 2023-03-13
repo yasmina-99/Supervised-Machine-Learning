@@ -2,6 +2,9 @@
 `Breast Cancer`(diagnostic) Data Set
 This project is a supervised classification machine learning project to predict whether the cancer is benign or malignant. The data set used in this project is the Breast Cancer Wisconsin (Diagnostic) Data Set.
 
+![alt text](https://github.com/yasmina-99/Supervised-Machine-Learning/blob/main/Standardization-of-H-E-stained-histopathology-image-appearance-A-Two-raw-images-with.png)
+
+
 ## About the Dataset
 The dataset consists of features computed from a `digitized image of a fine needle aspirate (FNA) of a breast mass.` These features describe characteristics of the cell nuclei present in the image. The dataset contains 569 instances, each with 32 attributes. The first attribute is the ID number, the second is the diagnosis (M = malignant, B = benign), and the remaining 30 attributes are real-valued features computed for each `cell nucleus.`
 
