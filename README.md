@@ -37,7 +37,7 @@ This project requires the following Python libraries to be installed:
 - Seaborn
 
 ## Now it's modeling time
-SelectKBest was used to perform preliminary Feature Selection in order to optimize the model. The best model achieved an accuracy of 99.7% on the test data using `Random Forest Classifier` model. However, other types of classifiers were also tested:         LogisticRegression(),
+`SelectKBest` was used to perform preliminary `Feature Selection` in order to optimize the model. The metric of choice was `AUC ROC` Curve to finely discriminate between positive and negative samples. The best model achieved an AUC ROC value of 99.7% on the test data using `Random Forest Classifier` model. However, other types of classifiers were also tested:         LogisticRegression(),
             DecisionTreeClassifier(),
             RandomForestClassifier(),
             SVC(),
