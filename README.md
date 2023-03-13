@@ -30,14 +30,14 @@ To get started with this project, you can clone this repository and use the brea
 ## Dependencies
 This project requires the following Python libraries to be installed:
 
+- Scikit-learn
 - Pandas
 - NumPy
-- Scikit-learn
 - Matplotlib
 - Seaborn
 
 ## Results
-The best model achieved an accuracy of 99.7% on the test data using Random Forest Classifier model. Moreover, other types of classifiers were also tested as:         LogisticRegression(),
+The best model achieved an accuracy of 99.7% on the test data using `Random Forest Classifier` model. SelectKBest was used to perform preliminary Feature Selection in order to optimize the model. However, other types of classifiers were also tested:         LogisticRegression(),
             DecisionTreeClassifier(),
             RandomForestClassifier(),
             SVC(),
