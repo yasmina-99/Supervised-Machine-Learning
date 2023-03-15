@@ -24,6 +24,11 @@ The dataset consists of features computed from a `digitized image of a fine need
 - i. `symmetry`
 - j. `fractal dimension` ("coastline approximation" - 1)
 
+![alt text](https://github.com/yasmina-99/Supervised-Machine-Learning/blob/main/download-3.png)
+![alt text](https://github.com/yasmina-99/Supervised-Machine-Learning/blob/main/download-4.png)
+![alt text](https://github.com/yasmina-99/Supervised-Machine-Learning/blob/main/download-5.png)
+![alt text](https://github.com/yasmina-99/Supervised-Machine-Learning/blob/main/download-6.png)
+
 ## Getting Started!
 To get started with this project, you can clone this repository and use the breast_cancer_classification.ipynb Jupyter Notebook to run the code. This notebook contains all the necessary code for data preparation, model training, and evaluation.
 
