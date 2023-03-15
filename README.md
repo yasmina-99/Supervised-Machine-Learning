@@ -51,6 +51,8 @@ This project requires the following Python libraries to be installed:
             
 The confusion matrix and classification report are also available in the notebook.
 
+![alt text](https://github.com/yasmina-99/Supervised-Machine-Learning/blob/main/download-9.png)
+
 ## License
 This project is licensed under the CC BY-NC-SA 4.0 license.
 
